@@ -1,6 +1,6 @@
 # Basic-IDE
 
-  **TRABALHO 2 DE AED2**
+  **TRABALHO DE AED2**
   
   Dupla: Lauane Mateus Oliveira de Moraes e Nelsi de Sousa Barbosa Junior
 
