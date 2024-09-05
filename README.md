@@ -1,4 +1,4 @@
-# Basic Compiler
+# Basic C Compiler
 
   **TRABALHO DE ALGORITMOS E ESTRUTURAS DE DADOS 2**
   
