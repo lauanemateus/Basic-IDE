@@ -19,17 +19,17 @@
 
   ------------------------------------------------------------------------------------------------
 
-Pair: Lauane Mateus Oliveira de Moraes and Nelsi de Sousa Barbosa Junior
-
-It is necessary to have the ncurses library installed.
-To compile on Linux, use the command: gcc IDE.c Lista.c Lista.h -o IDE -lncurses -ltinfo.
-This is an IDE that simulates a compiler interface in the terminal.
-
-** MAIN FEATURES **
-
-* The program performs word autocompletion using the TAB key, and it can be used at any time during typing.
-* Compilation can be done without closing the program, allowing editing and compiling multiple times in real-time.
-* Deleting letters does not interfere with the functionality of autocompletion and the compiler.
-* The program checks if the opening and closing of {, }, (, ), [, ] are correct.
-* The program checks for missing ; in the line.
-* The program checks if the declared variables are reserved C keywords (inserted in the initialize() function).
+  Pair: Lauane Mateus Oliveira de Moraes and Nelsi de Sousa Barbosa Junior
+  
+  It is necessary to have the ncurses library installed.
+  To compile on Linux, use the command: gcc IDE.c Lista.c Lista.h -o IDE -lncurses -ltinfo.
+  This is an IDE that simulates a compiler interface in the terminal.
+  
+  **MAIN FEATURES**
+  
+  * The program performs word autocompletion using the TAB key, and it can be used at any time during typing.
+  * Compilation can be done without closing the program, allowing editing and compiling multiple times in real-time.
+  * Deleting letters does not interfere with the functionality of autocompletion and the compiler.
+  * The program checks if the opening and closing of {, }, (, ), [, ] are correct.
+  * The program checks for missing ; in the line.
+  * The program checks if the declared variables are reserved C keywords (inserted in the initialize() function).
