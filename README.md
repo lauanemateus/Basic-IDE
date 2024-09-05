@@ -1,6 +1,6 @@
 # Basic Compiler
 
-  **TRABALHO DE Algorítimo e Estrutura de Dados 2**
+  **TRABALHO DE ALGORITMOS E ESTRUTURAS DE DADOS 2**
   
   Dupla: Lauane Mateus Oliveira de Moraes e Nelsi de Sousa Barbosa Junior
 
@@ -18,6 +18,8 @@
   * O programa vertifica se as variáveis declaradas são palavras reservadas do c (inseridas na função inicializar())
 
   ------------------------------------------------------------------------------------------------
+  
+  **ALGORITHM AND DATA STRUCTURES 2 ASSIGNMENT**
 
   Pair: Lauane Mateus Oliveira de Moraes and Nelsi de Sousa Barbosa Junior
   
